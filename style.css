@@ -1,0 +1,111 @@
+.mid-contant{
+    width: 90%;
+    margin: 0 auto;
+}
+.flexy{
+    display: flex;
+   
+}
+
+.orange-text{
+    color: #FF926E;
+}
+.header-area{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.header-area .left-header{
+    margin-right: 10px;
+    margin-left: 40px;
+}
+.header-area .left-header h1{
+    font-family:italic;
+    font-size: 80px;
+}
+#first-h1{
+    color: #2c3e50;
+    margin-bottom: -60px;
+    margin-left: 20px;
+}
+#second-h1{
+        margin-left: 20px;
+}
+.header-area .left-header p{
+    color: #636e72;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    margin-top: -10px;
+}
+.border-color{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+}
+#second-p{
+    margin-top: 30px;
+}
+.header-area .right-header{
+    margin-left: 250px;
+}
+.header-area .right-header img{
+    width: 90%;
+    text-align: center;
+    display: inline-block;
+}
+.mission-area{
+    margin-top: 100px;
+}
+.blue-text{
+    color: #192a56;
+}
+.mission-area h1{
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Roboto', sans-serif;
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 40px;
+}
+.mission-area .missions-items img{
+    width: 150px;
+}
+
+.mission-area img{
+    max-width: 100%;
+}
+.missions-items h2{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.missions-items p{
+    color: #576574;
+    text-align: justify;
+    margin: 15px;
+    padding: 25px;
+    font-size: 20px;
+
+}
+.missions-items .mis-item1{
+    background-color: #e1f4f5;
+}
+.missions-items .mis-item2{
+    background-color: #f5e1da;
+}
+.missions-items .mis-item3{
+    background-color: #fff5db;
+}
