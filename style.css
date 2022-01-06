@@ -171,7 +171,103 @@
     margin-bottom: 100px;
 }
 
+/* .contact-section{
+    margin: 0 -8px;
+    background-color: #fff;
+    background-image: linear-gradient(180deg, lightsalmon, tomato);
+} */
+.contact-section{
+    color: #fff;
+    margin-bottom: 100px;
+}
+.contact-section .left-contact{
+    width: 40%;
+    
+}
+.contact-section .left-contact h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 35px;
+}
+.contact-section .left-contact i{
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1.5em;
+    display: inline-block;
+    margin-left: 40px;
+}
+#contact-num{
+    margin-left: 15px;
+}
+.map iframe{
+    width: 76%;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.contact-section .left-contact .social-icons{
+    margin-top: 15px
+}
+.contact-section .left-contact .social-icons a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 15px;
+}
+.contact-section .right-contact{
+    width: 50%;
+    margin-left: 5%;
+}
+.contact-section .right-contact h2{
+    color: #fff;
+    font-size: 30px;
+    margin-left: 25px;
+}
+.contact-section .right-contact form{
+    margin-top: -15px;
+}
+.contact-section .right-contact input,textarea{
+    width: 40%;
+    margin: 10px 25px;
+    resize: none;
+    padding: 5px 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #333;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #777;
+    border-radius: 8px;
+    text-align: center;
+}
+#text-area{
+    width: 88%;
+}
+.form-button{
+    text-decoration: none;
+    background: #707173;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 25px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-top: 5px;
+    box-shadow: 10px 10px 40px #0D101A;
+}
+.contact-section .left-contact,.right-contact{
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
+    box-shadow: 10px 10px 40px rgb(71, 71, 71);
+    background-color: #3a3c42;
+}
 footer{
+    margin-top: 100px;
     background-color: #0d101a;
     padding: 50px;
     display: block;
